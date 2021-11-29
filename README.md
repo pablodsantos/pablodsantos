@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-(https://github-readme-stats.vercel.app/api/wakatime?username=pablodsantos)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=<pablodsantos>&show_icons=true&theme=tokyonight"/>
 
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=<pablodsantos>&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
